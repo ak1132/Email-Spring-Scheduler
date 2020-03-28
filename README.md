@@ -1,5 +1,5 @@
-# Birthday-Scheduler
-An automated birthday wish sending application for you friends. Can be tweaked for other email sending purposes.
+# Email-Scheduler
+An automated message sending application for you friends. Can be tweaked for other email sending purposes.
 
 The application makes using of Spring 4 , Hibernate 5 , Spring Scheduler for scheduling the job to run at the destined time and Velocity Template Engine for formatting and Spring Java Mailer for sending emails.
 
